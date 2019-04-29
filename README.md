@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Crud Basico de Ruby on Rails con Sqlite3, rutas y controlador
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Reisar routes.rb 
+Revisar carpeta controllers el archivo products_controller.rb 
+revisar carpeta views la subcarpeta products para vistas 
